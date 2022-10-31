@@ -1,7 +1,9 @@
 # Maths in GitHub markdown files
 GitHub uses [Mathjax](https://www.mathjax.org/) to render common $\LaTeX$ notation. There are lots of cheatsheets for this notation that you'll find with a quick search. If you can translate a formula into Excel, you'll have no problem getting the hang of Mathjax.
 
-This is often a much clearer way to explain how formulas in your scripts work compared to inline code. It can also make the theory you have used instantly recognisable to others.
+Unlike Mathcad, this only presents formulas. It doesn't solve them.
+
+Mathematical notation is often a much clearer way to explain how formulas in your scripts work compared to inline code. It can also make the theory you have used instantly recognisable to others.
 
 For example,
 ```
